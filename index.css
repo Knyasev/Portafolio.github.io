@@ -1,0 +1,23 @@
+body{
+    font-family: Sans-Serif;
+    background-image: url(fondo2.jpg);
+    background-size: 150%;
+    
+}
+
+
+
+
+div {
+    position: relative;
+    left: 120px;
+    font-size: x-large;
+    background : #cccc;
+    width: 1000px;
+    position: relative;
+    left: 500px;
+    height: 1500px;
+
+
+
+}
