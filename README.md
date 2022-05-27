@@ -1,2 +1,2 @@
-# Proyecto.github.io
-Elaboracion de proyecto para la administracion de un hotel
+# Portafolio.github.io
+Elaboracion de portafolio
